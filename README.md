@@ -1,2 +1,2 @@
 # cicddemo - App
->My cicd  Business Application
+>My cicddemo Business Application
